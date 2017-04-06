@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Frames" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
